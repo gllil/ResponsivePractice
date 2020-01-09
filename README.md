@@ -4,8 +4,8 @@ Using Bootstrap to create a responsive portfolio page. This page includes inform
 Below is a link to my application:
 https://gllil.github.io/ResponsivePractice/index.html
 
-<img src="assets/Page1.png">
+<img src="https://github.com/gllil/ResponsivePractice/blob/master/assets/Page1.PNG">
 
-<img src="assets/Page2.png">
+<img src="https://github.com/gllil/ResponsivePractice/blob/master/assets/Page2.PNG">
 
-<img src="assets/Page3.png">
+<img src="https://github.com/gllil/ResponsivePractice/blob/master/assets/Page3.PNG">

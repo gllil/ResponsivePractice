@@ -25,12 +25,11 @@ h1 {
     text-align: Left;
 }
 
-/* .name {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 20pt;
-    margin: 0 auto;
-    padding: 20px;
-} */
+.name {
+    object-fit: fill;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 .selection {
     text-decoration: none;
